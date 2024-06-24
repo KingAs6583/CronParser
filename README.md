@@ -6,6 +6,8 @@ It Is a Java Program which parse a cron String and expands each field to show th
 
 It will expand the fields Such as mintue, hour, day of month, month and day of week while interpreting the special character present in a expression.
 
+[GitHub Link](https://github.com/KingAs6583/CronParser)
+
 ### Usage
 
 Command-line Syntax
@@ -64,6 +66,7 @@ javac -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar CronParserTest.java
 ```
 java -cp .;junit-4.13.2.jar;hamcrest-core-1.3.jar org.junit.runner.JUnitCore CronParserTest
 ```
+<hr>
 
 **Compliation of Test Class in <mark>PowerShell or VS Code</mark>**
 ```
